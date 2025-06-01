@@ -1,0 +1,2 @@
+能把labelme生成的json文件转化为yolov5能识别的txt文件
+change labelme.json to yolov5.txt
